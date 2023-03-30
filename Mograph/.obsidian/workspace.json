@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "ed15d1a59f8cee93",
+    "type": "split",
+    "children": [
+      {
+        "id": "53485706d54a2cc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3ea29ffb56b0de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12 Principles of Design/12 Principles of Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c25806ae9eb7c0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7225a19f4e629d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c799559e9d8ccfe5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86d2ab4e084729ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cee30516823a6e44",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10cb5099070f1fab",
+    "type": "split",
+    "children": [
+      {
+        "id": "20b4d5bdae309918",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4634cac869814f4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "12 Principles of Design/12 Principles of Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1f41e48b0c9a61d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "12 Principles of Design/12 Principles of Design.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55dd1e5756f09479",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "008138641525db6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "12 Principles of Design/12 Principles of Design.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3b3ea29ffb56b0de",
+  "lastOpenFiles": [
+    "12 Principles of Design/1. Balance.md",
+    "12 Principles of Design/12 Principles of Design.md"
+  ]
+}
