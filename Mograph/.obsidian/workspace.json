@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12 Principles of Design/2. Contrast.md",
+                "file": "12 Principles of Design/12 Principles of Design Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Principles of Design/2. Contrast.md",
+                "file": "12 Principles of Design/12 Principles of Design Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 Principles of Design/2. Contrast.md",
+                "file": "12 Principles of Design/12 Principles of Design Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 Principles of Design/2. Contrast.md"
+                "file": "12 Principles of Design/12 Principles of Design Test.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c799559e9d8ccfe5",
+  "active": "3b3ea29ffb56b0de",
   "lastOpenFiles": [
     "12 Principles of Design/2. Contrast.md",
-    "12 Principles of Design/12 Principles of Design WORKING.md",
-    "12 Principles of Design/1. Balance.md"
+    "12 Principles of Design/1. Balance.md",
+    "12 Principles of Design/12 Principles of Design Test.md",
+    "12 Principles of Design/12 Principles of Design WORKING.md"
   ]
 }
