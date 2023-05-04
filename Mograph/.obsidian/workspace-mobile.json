@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb1c7a918961ddb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ㅓ어어어어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,6 +84,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "6625a46b982ab2cb",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -85,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "12 Principles of Design/12 Principles of Design.md",
+            "file": "ㅓ어어어어.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "12 Principles of Design/12 Principles of Design.md",
+            "file": "ㅓ어어어어.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "12 Principles of Design/12 Principles of Design.md"
+            "file": "ㅓ어어어어.md"
           }
         }
       }
@@ -131,12 +152,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "115294eb3d0c7455",
+  "active": "fb1c7a918961ddb3",
   "lastOpenFiles": [
     "12 Principles of Design/12 Principles of Design.md",
-    "12 Principles of Design/12 Principles of Design.md",
-    "12 Principles of Design/1. Balance.md",
+    "ㅓ어어어어.md",
     "12 Principles of Design/2. Contrast.md",
+    "12 Principles of Design/1. Balance.md",
     "12 Principles of Design/12 Principles of Design TESTT.md"
   ]
 }
