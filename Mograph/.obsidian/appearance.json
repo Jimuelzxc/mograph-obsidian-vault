@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "textFontFamily": "Helvetica Neue",
+  "interfaceFontFamily": "Helvetica Neue",
+  "baseFontSize": 23
 }

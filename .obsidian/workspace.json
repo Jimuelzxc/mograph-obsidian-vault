@@ -1,43 +1,21 @@
 {
   "main": {
-    "id": "ed15d1a59f8cee93",
+    "id": "e5ef38c05beb92df",
     "type": "split",
     "children": [
       {
-        "id": "53485706d54a2cc5",
+        "id": "436c840eeea8dcd3",
         "type": "tabs",
         "children": [
           {
-            "id": "3b3ea29ffb56b0de",
+            "id": "c81405ba4b1e212a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12 Principles of Design/2. Contrast.md",
+                "file": "Mograph/12 Principles of Design/2. Contrast.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9f0ed91ea861311b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elements of Design/Line.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4138a46b243428ad",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Pasted image 20230426111501.png"
               }
             }
           }
@@ -47,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2c25806ae9eb7c0f",
+    "id": "7ce5c7514bc5b3dd",
     "type": "split",
     "children": [
       {
-        "id": "7225a19f4e629d97",
+        "id": "8ce3bc371c2018d6",
         "type": "tabs",
         "children": [
           {
-            "id": "c799559e9d8ccfe5",
+            "id": "e77c9f4647bfb427",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +43,7 @@
             }
           },
           {
-            "id": "86d2ab4e084729ae",
+            "id": "a19a951fcfc3bcda",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +58,7 @@
             }
           },
           {
-            "id": "cee30516823a6e44",
+            "id": "d93420b8f4c68b90",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -94,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "10cb5099070f1fab",
+    "id": "8be883c4c2bc51c9",
     "type": "split",
     "children": [
       {
-        "id": "20b4d5bdae309918",
+        "id": "e55b661ca943141f",
         "type": "tabs",
         "children": [
           {
-            "id": "4634cac869814f4b",
+            "id": "a4724e7275f88629",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Principles of Design/2. Contrast.md",
+                "file": "Mograph/12 Principles of Design/2. Contrast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,19 +97,19 @@
             }
           },
           {
-            "id": "c1f41e48b0c9a61d",
+            "id": "4ca723ea9cdb27f0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 Principles of Design/2. Contrast.md",
+                "file": "Mograph/12 Principles of Design/2. Contrast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "55dd1e5756f09479",
+            "id": "1f486967697084ab",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,12 +120,12 @@
             }
           },
           {
-            "id": "008138641525db6d",
+            "id": "3ab2775d424b78eb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 Principles of Design/2. Contrast.md"
+                "file": "Mograph/12 Principles of Design/2. Contrast.md"
               }
             }
           }
@@ -168,33 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b3ea29ffb56b0de",
+  "active": "c81405ba4b1e212a",
   "lastOpenFiles": [
-    "Elements of Design/Line.md",
-    "Elements of Design/Depth.md",
-    "12 Principles of Design/2. Contrast.md",
-    "Dynamic Proportion.md",
-    "Assets/Elements of Design (Images)/Line Examples.png",
-    "Assets/12 Principles of Design (Images)/Contrast Example.png",
-    "Assets/Elements of Design (Images)/Depth/Depth Graphic Design.png",
-    "Assets/Elements of Design (Images)/Depth/Depth Typograhy.png",
-    "Assets/Pasted image 20230426111501.png",
-    "Assets/Pasted image 20230422163800.png",
-    "Kinetic Typography Tips.md",
-    "2dfe2e298df3e0a9b62252ba368bc9f2.jpg",
-    "Assets/Elements of Design (Images)/Depth/b6f1aadbf5ed26242e1d6293b44d653a.jpg",
-    "Assets/Elements of Design (Images)/Depth/Depth Illustration.png",
-    "Assets/Elements of Design (Images)/Depth",
-    "Assets/Elements of Design (Images)",
-    "12 Principles of Design/4. Movement.md",
-    "12 Principles of Design/12 Principles of Design.md",
-    "12 Principles of Design/1. Balance.md",
-    "Elements of Design",
-    "12 Principles of Design/8. Rhythm.md",
-    "Untitled.canvas",
-    "Pasted image 20230331171224.png",
-    "12 Principles of Design/12 Principles of Design test.md",
-    "12 Principles of Design/12 Principles of Design Test.md",
-    "12 Principles of Design/12 Principles of Design WORKING.md"
+    "Mograph/12 Principles of Design/1. Balance.md"
   ]
 }
