@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "949e7a0211c06e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ㅓ어어어어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9f0ed91ea861311b",
             "type": "leaf",
             "state": {
@@ -41,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,6 +99,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "aad60bdaa81aacbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -107,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Principles of Design/2. Contrast.md",
+                "file": "ㅓ어어어어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 Principles of Design/2. Contrast.md",
+                "file": "ㅓ어어어어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 Principles of Design/2. Contrast.md"
+                "file": "ㅓ어어어어.md"
               }
             }
           }
@@ -168,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b3ea29ffb56b0de",
+  "active": "949e7a0211c06e9b",
   "lastOpenFiles": [
     "Elements of Design/Line.md",
     "Elements of Design/Depth.md",
