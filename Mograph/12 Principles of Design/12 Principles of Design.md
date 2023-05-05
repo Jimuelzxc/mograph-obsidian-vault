@@ -1,7 +1,7 @@
 ![[12 principles of design.png]]
 
 
-# [[1. Balance]]
+# [[Balance]]
 
 -   ito ay tungkol sa pag-aaral kung paano magkakaroon ng balance sa pagitan ng mga elemento sa isang disenyo, tulad ng laki, kulay, at space, upang hindi maging magulo o hindi nakakalito sa viewers.
 ![[balance.png]]

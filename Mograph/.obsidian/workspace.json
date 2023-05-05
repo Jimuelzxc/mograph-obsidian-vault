@@ -13,48 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12 Principles of Design/2. Contrast.md",
-                "mode": "source",
+                "file": "Elements of Design/Shape.md",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "949e7a0211c06e9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ㅓ어어어어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f0ed91ea861311b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elements of Design/Line.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4138a46b243428ad",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Pasted image 20230426111501.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ㅓ어어어어.md",
+                "file": "Elements of Design/Shape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ㅓ어어어어.md",
+                "file": "Elements of Design/Shape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ㅓ어어어어.md"
+                "file": "Elements of Design/Shape.md"
               }
             }
           }
@@ -189,31 +154,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "949e7a0211c06e9b",
+  "active": "3b3ea29ffb56b0de",
   "lastOpenFiles": [
-    "Elements of Design/Line.md",
-    "Elements of Design/Depth.md",
+    "12 Principles of Design/Balance.md",
+    "Elements of Design/Shape.md",
     "12 Principles of Design/2. Contrast.md",
-    "Dynamic Proportion.md",
-    "Assets/Elements of Design (Images)/Line Examples.png",
-    "Assets/12 Principles of Design (Images)/Contrast Example.png",
-    "Assets/Elements of Design (Images)/Depth/Depth Graphic Design.png",
-    "Assets/Elements of Design (Images)/Depth/Depth Typograhy.png",
-    "Assets/Pasted image 20230426111501.png",
-    "Assets/Pasted image 20230422163800.png",
+    "12 Principles of Design/12 Principles of Design.md",
+    "12 Principles of Design/8. Rhythm.md",
+    "12 Principles of Design/4. Movement.md",
     "Kinetic Typography Tips.md",
-    "2dfe2e298df3e0a9b62252ba368bc9f2.jpg",
-    "Assets/Elements of Design (Images)/Depth/b6f1aadbf5ed26242e1d6293b44d653a.jpg",
-    "Assets/Elements of Design (Images)/Depth/Depth Illustration.png",
+    "Pasted image 20230331171224.png.md",
+    "Assets/Pasted image 20230426111501.png",
+    "Elements of Design/Line.md",
+    "Assets/12 Principles of Design (Images)/Variety.png",
+    "Assets/12 Principles of Design (Images)/Unity.png",
+    "Assets/12 Principles of Design (Images)/Rhythm.png",
+    "Assets/12 Principles of Design (Images)/Proportion.png",
+    "Assets/12 Principles of Design (Images)/repetition.png",
+    "Assets/12 Principles of Design (Images)/pattern.png",
+    "Assets/12 Principles of Design (Images)/Hierarchy.png",
+    "Assets/12 Principles of Design (Images)/Contrast Example.png",
+    "Assets/12 Principles of Design (Images)/contrast.png",
+    "Elements of Design/Depth.md",
+    "Dynamic Proportion.md",
     "Assets/Elements of Design (Images)/Depth",
     "Assets/Elements of Design (Images)",
-    "12 Principles of Design/4. Movement.md",
-    "12 Principles of Design/12 Principles of Design.md",
-    "12 Principles of Design/1. Balance.md",
     "Elements of Design",
-    "12 Principles of Design/8. Rhythm.md",
     "Untitled.canvas",
-    "Pasted image 20230331171224.png",
     "12 Principles of Design/12 Principles of Design test.md",
     "12 Principles of Design/12 Principles of Design Test.md",
     "12 Principles of Design/12 Principles of Design WORKING.md"
