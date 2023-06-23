@@ -1,12 +1,12 @@
 ![[12 principles of design.png]]
 
 
-# [[Balance]]
+# [[Balance (OLD)]]
 
 -   ito ay tungkol sa pag-aaral kung paano magkakaroon ng balance sa pagitan ng mga elemento sa isang disenyo, tulad ng laki, kulay, at space, upang hindi maging magulo o hindi nakakalito sa viewers.
 ![[balance.png]]
 
-# [[2. Contrast]]
+# [[Contrast (OLD)]]
 
 -   ito ay tungkol sa pagkakaroon ng pagkakaiba-iba ng mga elemento sa disenyo, tulad ng kulay, laki, o shape, upang magkaroon ng emphasis at mas maganda na makita ang mga element.
 ![[contrast.png]]
@@ -18,7 +18,7 @@
 ![[emphasis.png]]
 
 
-# [[4. Movement]]
+# [[Movement]]
 
 * ito ay tungkol sa paggamit ng paggalaw upang magkaroon ng interes at engagement sa mga viewers. Dapat matutunan kung paano mag-animate ng mga element at kung paano mag-adjust ng timing at speed ng mga galaw.ito ay tungkol sa paggamit ng paggalaw upang magkaroon ng interes at engagement sa mga viewers. Dapat matutunan kung paano mag-animate ng mga element at kung paano mag-adjust ng timing at speed ng mga galaw.
 ![[movement.png]]
@@ -41,7 +41,7 @@
 ![[Proportion.png]]
 
 
-# [[8. Rhythm]]
+# [[Rhythm (OLD)]]
 -   ito ay tungkol sa paggamit ng pagkakaayos ng mga elemento upang magkaroon ng rhythm o tunog sa disenyo.
 ![[Rhythm.png]]
 

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elements of Design/Shape.md",
-                "mode": "preview",
+                "file": "Study/Principles of Design/OLD/Contrast (OLD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4713a69b6272c070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Principles of Design/Contrast.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elements of Design/Shape.md",
+                "file": "Study/Principles of Design/Contrast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elements of Design/Shape.md",
+                "file": "Study/Principles of Design/Contrast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elements of Design/Shape.md"
+                "file": "Study/Principles of Design/Contrast.md"
               }
             }
           }
@@ -154,18 +167,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b3ea29ffb56b0de",
+  "active": "4713a69b6272c070",
   "lastOpenFiles": [
-    "12 Principles of Design/Balance.md",
-    "Elements of Design/Shape.md",
-    "12 Principles of Design/2. Contrast.md",
-    "12 Principles of Design/12 Principles of Design.md",
-    "12 Principles of Design/8. Rhythm.md",
-    "12 Principles of Design/4. Movement.md",
-    "Kinetic Typography Tips.md",
+    "Study/Principles of Design/Unity.md",
+    "Study/Principles of Design/Contrast.md",
+    "Study/Principles of Design/Movement.md",
+    "Study/Principles of Design/OLD",
+    "Study/Principles of Design/OLD/Rhythm (OLD).md",
+    "Study/Principles of Design/OLD/Balance (OLD).md",
+    "Study/Principles of Design/OLD/Contrast (OLD).md",
+    "Study/Principles of Design/12 Principles of Design.md",
+    "Study/Dynamic Proportion.md",
     "Pasted image 20230331171224.png.md",
+    "Study",
+    "Study/Elements of Design/Shape.md",
+    "Study/Elements of Design/Line.md",
+    "Study/Elements of Design/Depth.md",
+    "Study/Kinetic Typography/How to use.md",
+    "Study/Kinetic Typography/Kinetic Typography Tips.md",
+    "Study/Kinetic Typography",
+    "Motion Design",
     "Assets/Pasted image 20230426111501.png",
-    "Elements of Design/Line.md",
     "Assets/12 Principles of Design (Images)/Variety.png",
     "Assets/12 Principles of Design (Images)/Unity.png",
     "Assets/12 Principles of Design (Images)/Rhythm.png",
@@ -175,11 +197,9 @@
     "Assets/12 Principles of Design (Images)/Hierarchy.png",
     "Assets/12 Principles of Design (Images)/Contrast Example.png",
     "Assets/12 Principles of Design (Images)/contrast.png",
-    "Elements of Design/Depth.md",
-    "Dynamic Proportion.md",
     "Assets/Elements of Design (Images)/Depth",
     "Assets/Elements of Design (Images)",
-    "Elements of Design",
+    "Study/Elements of Design",
     "Untitled.canvas",
     "12 Principles of Design/12 Principles of Design test.md",
     "12 Principles of Design/12 Principles of Design Test.md",
